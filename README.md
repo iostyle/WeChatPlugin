@@ -213,3 +213,6 @@ curl -o- -L https://raw.githubusercontent.com/lmk123/oh-my-wechat/master/install
 ---
 
 ### Forked from tk
+
+### 建议移步他人继续维护的项目 
+https://github.com/MustangYM/WeChatExtension-ForMac 
